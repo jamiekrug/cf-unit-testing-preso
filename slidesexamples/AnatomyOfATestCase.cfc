@@ -5,7 +5,7 @@ component extends="mxunit.framework.Testcase"
 	 **/
 	function setUp()
 	{
-		variables.cut = new ComponentUnderTest();
+		myObj = new ComponentUnderTest();
 	}
 
 	/*
@@ -38,7 +38,7 @@ component extends="mxunit.framework.Testcase"
 	function doSomething_should_xxx_when_yyy()
 	{
 		// exercise your component under test
-		var result = variables.cut.doSomething();
+		var result = myObj.doSomething();
 		
 		// make some assertion based on the result of exercising the component
 		assertEquals( "SomeExpectedValue", result, "result should've been 'SomeExpectedValue' but was #result#" );
