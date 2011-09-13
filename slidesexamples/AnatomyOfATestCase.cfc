@@ -1,4 +1,4 @@
-component extends="mxunit.framework.Testcase"
+component extends="mxunit.framework.TestCase"
 {
 	/*
 	 * Run before every test in this test case
