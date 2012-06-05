@@ -5,7 +5,7 @@ component extends="mxunit.framework.TestCase"
 	{
 		myObj = new MyComponent();
 
-		nameListData = "Jamie,Wendy,Ayvin,Nyah,Unknown";
+		nameListData = "Jamie,Wendy,Ayvin,Nyah,Elsie";
 
 		nameArrayData = [ 'Marge', 'Homer', 'Bart', 'Lisa', 'Maggie' ];
 

@@ -1,4 +1,4 @@
-This is a demo repo for "Improve Your ColdFusion Code Through Unit Testing," which was part of [ColdFusion Developer Week 2011](http://www.adobe.com/cfusion/event/index.cfm?event=detail&id=1489920)
+This is a demo repo for "Improve Your Apps Through Unit Testing," which was part of [ColdFusion Developer Week (2011 and 2012)](http://adobe.com/go/cfdeveloperweek)
 
 My slides (in ODP and PDF formats) are beneath the slides/ directory, which also contains a few example CFCs to go along with relevant slides that end with "EXAMPLE..."
 
